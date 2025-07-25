@@ -9,5 +9,6 @@ export default defineConfig({
   plugins: [tailwindcss(),
     
     react()],
-      base: '/your-repo-name/', 
+ base: '/LEVEL_UP/', // ✅ SAHI hai (repo ka actual naam)
+
 })
